@@ -6,38 +6,38 @@ Incluye herramientas completas para la administración de productos y el seguimi
 Características principales
 Gestión completa de productos
 
-Crear producto
+- Crear producto
 
-Editar producto
+- Editar producto
 
-Eliminar producto
+- Eliminar producto
 
-Actualizar propiedades (precio, cantidad, categoría, etc.)
+- Actualizar propiedades (precio, cantidad, categoría, etc.)
 
-Inventario en tiempo real
+- Inventario en tiempo real
 
-Visualización instantánea del stock
+- Visualización instantánea del stock
 
-Filtros por categoría, precio, cantidad, estado, etc.
+- Filtros por categoría, precio, cantidad, estado, etc.
 
-Control de movimientos
+- Control de movimientos
 
-Registro de ventas
+- Registro de ventas
 
-Registro de entradas de mercancía
+- Registro de entradas de mercancía
 
-Historial de movimientos
+- Historial de movimientos
 
-Reportes en PDF
+- Reportes en PDF
 
-Generación de reportes del inventario
+- Generación de reportes del inventario
 
-Reportes de ventas
+- Reportes de ventas
 
-Reportes de productos agotados o con bajo stock
+- Reportes de productos agotados o con bajo stock
 
 Interfaz intuitiva
 
-Navegación clara
+- Navegación clara
 
-Panel de control
+- Panel de control
